@@ -53,24 +53,24 @@ CoinGecko API: For fetching real-time cryptocurrency data.
 
 Matplotlib: For data visualization.
 
-CSV: To save cryptocurrency data locally.
+CSV: To save cryptocurrency data locally
+
 -------------------------------------------------------------------------------------
 
 Core Functions and Purpose
-
 Core Functions
-The Crypto Tracker project combines multiple functionalities to provide a comprehensive tool for cryptocurrency enthusiasts, analysts, and learners:
+The Crypto Tracker project provides a comprehensive tool for cryptocurrency enthusiasts, analysts, and learners:
 
 Fetch Real-Time Data:
 Utilizes the CoinGecko API to gather up-to-date cryptocurrency prices, market caps, and 24-hour percentage changes.
 Search Specific Cryptocurrencies:
 Enables users to find detailed information about any cryptocurrency by its name or symbol.
 Save Data Locally:
-Exports cryptocurrency data to CSV format for further offline analysis or record-keeping.
+Exports cryptocurrency data to CSV format for offline analysis or record-keeping.
 Visualize Data:
 Generates bar, pie, and line charts to present data visually, making it easier to spot trends and insights.
 Skills and Technologies Demonstrated
-This project highlights key programming and technical skills, including:
+This project showcases the following programming and technical skills:
 
 Python Programming:
 Developed a modular and structured codebase with reusable functions.
@@ -88,7 +88,7 @@ Git and GitHub:
 Practiced version control by managing and publishing the project to a GitHub repository.
 What I Learned
 API Integration:
-I gained experience with making HTTP requests, understanding endpoints, and handling JSON data structures.
+Gained experience with making HTTP requests, understanding endpoints, and handling JSON data structures.
 Data Processing:
 Learned how to extract, transform, and represent data in a way that makes sense to users.
 Visualization:
@@ -98,13 +98,13 @@ Enhanced my ability to identify, debug, and resolve issues in real-time.
 Modular Programming:
 Understood the importance of organizing code into separate, reusable modules for clarity and maintenance.
 Purpose of the Project
-This project addresses the growing demand for accessible cryptocurrency tools by:
+This project solves real-world problems and serves multiple purposes:
 
-Simplifying Data Analysis:
+Simplifies Data Analysis:
 Converts raw cryptocurrency data into actionable insights through visualizations and easy-to-read formats.
-Serving Beginners and Experts:
+Serves Beginners and Experts:
 Provides an intuitive tool for beginners to learn about cryptocurrencies and for analysts to quickly access relevant data.
 Practical Application:
-Encourages learning by building something useful, helping users understand cryptocurrencies better while enhancing my technical skills.
+Encourages learning by building something useful, helping users understand cryptocurrencies better while enhancing technical skills.
 Portfolio Enhancement:
-Serves as a showcase of my programming abilities, problem-solving approach, and understanding of data-centric applications.
+Acts as a showcase of programming abilities, problem-solving approach, and understanding of data-centric applications.

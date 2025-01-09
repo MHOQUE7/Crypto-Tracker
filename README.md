@@ -74,3 +74,9 @@ Through this project, I gained valuable experience in API integration, understan
 Purpose of the Project
 
 The Crypto Tracker serves as a practical tool that simplifies cryptocurrency analysis for both beginners and experts. It transforms raw data into actionable insights with its visualizations and CSV exports, making it easier to understand market trends. The project also provided a hands-on learning experience, enhancing my technical skills and preparing me for future data-centric projects. Lastly, it serves as a portfolio piece that showcases my ability to create meaningful, real-world applications.
+
+-----------------------------------------------------------------------------------------
+
+SPECIAL THANKS TO THE FREE COINGECKO API
+
+-Mohammad Hoque
